@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
-st.title("Predicción del costo de una actividad")
+st.title("Predicción del costo")
 
 st.header("Ingresa los datos:")
 
