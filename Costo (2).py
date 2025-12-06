@@ -5,7 +5,7 @@ from sklearn.linear_model import LinearRegression
 
 st.title("Predicción del costo")
 
-st.header("Ingresa los datos:")
+st.header("Ingresa tus datos: ")
 
 
 def user_input():
